@@ -22,7 +22,7 @@ The codes folder contains:
 
 * (2) `main.R`: computes the Sobol' indices using `Sobol_index()` and displays the 1st (and 2nd) order indices on stacked polygon plots (example below).
 
-<img src="images/1stOrder_plots.pdf"/>
+<img src="images/1stOrder_plots.png"/>
 
 # References
 
